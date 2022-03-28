@@ -41,7 +41,7 @@ export const ProductModal = ({ setData }) => {
 
         setButtonAble(true);
 
-    }, [activeModal, setValues, reset])
+    }, [activeModal])
 
     const [file, setFile] = useState(false);
 
