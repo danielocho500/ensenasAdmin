@@ -1,0 +1,15 @@
+.container {
+    max-width: 120rem;
+    width: 90%;
+    margin: 0 auto;
+}
+
+.buttons{
+    display: flex;
+    gap: 10px;
+}
+
+.title{
+    margin-bottom: 30px;
+    text-align: center;
+}
